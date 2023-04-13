@@ -1,2 +1,1 @@
-# hello
-hello repo
+# My first fat-free framework repo
